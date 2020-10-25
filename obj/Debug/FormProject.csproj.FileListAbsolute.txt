@@ -1,0 +1,10 @@
+C:\GB\Arhitechture\FH\FormProject\bin\Debug\FormProject.exe.config
+C:\GB\Arhitechture\FH\FormProject\bin\Debug\FormProject.exe
+C:\GB\Arhitechture\FH\FormProject\bin\Debug\FormProject.pdb
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.csprojAssemblyReference.cache
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.DrawForm.resources
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.Properties.Resources.resources
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.csproj.GenerateResource.cache
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.csproj.CoreCompileInputs.cache
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.exe
+C:\GB\Arhitechture\FH\FormProject\obj\Debug\FormProject.pdb
